@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BariaWalls.data.unityweb",
+"asmCodeUrl": "BariaWalls.asm.code.unityweb",
+"asmMemoryUrl": "BariaWalls.asm.memory.unityweb",
+"asmFrameworkUrl": "BariaWalls.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
