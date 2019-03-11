@@ -1,1 +1,1 @@
-# WebGLGames
+# Mini-Game
